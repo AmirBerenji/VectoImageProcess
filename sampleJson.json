@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Image1",
+    "effects": [
+      { "name": "Resize", "param": 100 },
+      { "name": "Blur", "param": 2 }
+    ]
+  },
+  {
+    "name": "Image2",
+    "effects": [
+      { "name": "Resize", "param": 100 }
+    ]
+  },
+  {
+    "name": "Image3",
+    "effects": [
+      { "name": "Resize", "param": 150 },
+      { "name": "Blur", "param": 5 },
+      { "name": "Grayscale" }
+    ]
+  }
+]

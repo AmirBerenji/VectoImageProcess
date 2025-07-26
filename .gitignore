@@ -1,0 +1,18 @@
+# Build output
+bin/
+obj/
+
+# VS Code / VS folders
+.vscode/
+.vs/
+
+# User-specific files
+*.user
+*.suo
+
+# Other
+*.log
+*.tmp
+*.swp
+
+# Optional: Ignore sample JSON test data
